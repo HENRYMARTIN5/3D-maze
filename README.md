@@ -1,6 +1,6 @@
 3D-maze
 =======
-
+[![Run on Repl.it](https://repl.it/badge/github/jcbahr/3D-maze)](https://repl.it/github/jcbahr/3D-maze)
 First person maze written in Python with the module Tkinter.  
 
 
